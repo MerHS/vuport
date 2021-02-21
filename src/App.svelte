@@ -15,6 +15,7 @@
   import Header from "./components/Header.svelte";
   import Theme from "./components/Theme.svelte";
 
+  // export let name: stringa
   let theme: "g10" = "g10";
 </script>
 
